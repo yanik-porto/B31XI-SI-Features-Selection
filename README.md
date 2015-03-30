@@ -16,7 +16,7 @@ In order to use the Ipython Notebook, the following dependencies are needed:
 
 * IPython - `sudo apt-get install ipython`
 * IPython notebook - `sudo apt-get install ipython-notebook`
-* Numpy - `sudo apt-get install numpy`
+* Numpy - `sudo apt-get install python-numpy`
 * Matplotlib - `sudo apt-get install python-matplotlib`
 * Scipy - `sudo apt-get install python-scipy`
 * Plotly - `sudo pip install plotly`
