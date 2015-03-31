@@ -25,6 +25,9 @@ We strongly recommend to use a Linux environment to perform this practise.
 
 ## Features selection
 
+The following module of the framework will be studied:
+![Alt text](./readme-images/pr-framework-fs.png)
+
 Several features normalization methods will be implemented and tested.
 
 - Student's t-test:
