@@ -12,14 +12,12 @@ More description is given in the subsections.
 
 The following practise has been tested with **Ubuntu 14.04**.
 
-In order to use the Ipython Notebook, the following dependencies are needed:
+In order to carry out the practise, the following dependencies are needed:
 
-* IPython - `sudo apt-get install ipython`
-* IPython notebook - `sudo apt-get install ipython-notebook`
-* Numpy - `sudo apt-get install python-numpy`
-* Matplotlib - `sudo apt-get install python-matplotlib`
-* Scipy - `sudo apt-get install python-scipy`
-* Plotly - `sudo pip install plotly`
+* ipython notebook - `conda install ipython-notebook`
+* scikit-learn - `conda install scikit-learn`
+* mpld3 - `pip install mpld3`
+* plotly - `pip install plotly`
 
 We strongly recommend to use a Linux environment to perform this practise.
 
